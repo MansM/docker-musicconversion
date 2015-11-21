@@ -1,6 +1,6 @@
 #!/bin/bash
 
-flacpath=/in/Flac
+flacpath=/in
 alacpath=/out
 
 alacsuffix=.m4a
